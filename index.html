@@ -4,36 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/the-new-css-reset@1.8.4/css/reset.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.2.0/github-markdown.min.css">
-    <style>
-        section {
-            margin: 20px auto;
-            max-width: 777px;
-        }
-
-        @media screen and (max-width: 777px) {
-            section {
-                margin: 20px;
-            }
-        }
-    </style>
+    <link rel="stylesheet" href="./style.css">
     <script src="https://cdn.jsdelivr.net/npm/markdown-it@13.0.1/dist/markdown-it.min.js"></script>
-    <script>
-        const md = new markdownit({breaks:true,linkify:true});
-        fetch('./test.md')
-            .then(res => res.text())
-            .then(text => {
-                document.getElementById('main').innerHTML = md.render(text);
-            })
-            .then(() => {
-                const aTags = document.querySelectorAll('#main a');
-                aTags.forEach(aTag => {
-                    const randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16).padStart(6, '0');
-                    aTag.style.color = randomColor;
-                    aTag.style.textDecoration = 'underline';
-                    aTag.setAttribute('target', '_blank');
-                });
-            });
-    </script> 
+    <script src="./script.js"></script> 
 </head>
 <body>
     <section>

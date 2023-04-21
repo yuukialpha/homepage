@@ -1,0 +1,10 @@
+section {
+    margin: 20px auto;
+    max-width: 777px;
+}
+
+@media screen and (max-width: 777px) {
+    section {
+        margin: 20px;
+    }
+}

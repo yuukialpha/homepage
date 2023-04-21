@@ -5,3 +5,6 @@
 ### 情報
 - 隔離すきー https://misskey.yuuk1.tk/@yuuki
 - みすきーio https://misskey.io/@gomikasuchan
+
+### ソースコード
+- Codeberg https://codeberg.org/mofusky

@@ -11,3 +11,9 @@
 
 ### 重要な情報
 - https://misskey.yuuk1.tk/clips/9dvdy2scb3
+
+### 分析
+- https://gorioshi.yuuk1.tk
+
+### AI関連
+- https://chatgpt.yuuk1.tk

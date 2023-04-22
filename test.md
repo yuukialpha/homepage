@@ -9,7 +9,7 @@
 ### ソースコード
 - Codeberg https://codeberg.org/mofusky
 
-### 重要な情報
+### その他の情報
 - https://misskey.yuuk1.tk/clips/9dvdy2scb3
 
 ### 分析

@@ -3,8 +3,4 @@
     - ![](https://badgen.net/uptime-robot/status/m794076910-3b2cafc4b1e16f56a6094840?label=%E5%A4%AA%E9%BC%93%E3%82%A6%E3%82%A7%E3%83%96&cache=300) ![](https://badgen.net/uptime-robot/month/m794076910-3b2cafc4b1e16f56a6094840?label=%E5%A4%AA%E9%BC%93%E3%82%A6%E3%82%A7%E3%83%96&cache=3600)
 
 ### 情報
-- 隔離すきー https://misskey.yuuk1.tk/@yuuki
-- みすきーio https://misskey.io/@gomikasuchan
-
-### ソースコード
-- Codeberg https://codeberg.org/mofusky
+- https://misskey.yuuk1.tk/clips/9dvdy2scb3

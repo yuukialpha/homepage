@@ -1,19 +1,14 @@
-### ゲーム
+# ゲーム
 - 太鼓ウェブ https://taiko-web-is-4ever.yuuk1.tk
     - ![](https://badgen.net/uptime-robot/status/m794076910-3b2cafc4b1e16f56a6094840?label=%E5%A4%AA%E9%BC%93%E3%82%A6%E3%82%A7%E3%83%96&cache=300) ![](https://badgen.net/uptime-robot/month/m794076910-3b2cafc4b1e16f56a6094840?label=%E5%A4%AA%E9%BC%93%E3%82%A6%E3%82%A7%E3%83%96&cache=3600)
 
-### みすきー
-- 隔離すきー https://misskey.yuuk1.tk/@yuuki
+# 情報
+- <スパム注意> 隔離すきー https://misskey.yuuk1.tk/@yuuki
+- その他の情報 https://misskey.yuuk1.tk/clips/9dvdy2scb3
 - みすきーio https://misskey.io/@gomikasuchan
-
-### ソースコード
 - Codeberg https://codeberg.org/mofusky
+- ゴリ押しアナリティクス https://gorioshi.yuuk1.tk
+- APIを介したChatGPT https://chatgpt.yuuk1.tk
 
-### その他の情報
-- https://misskey.yuuk1.tk/clips/9dvdy2scb3
-
-### 分析
-- https://gorioshi.yuuk1.tk
-
-### AI関連
-- https://chatgpt.yuuk1.tk
+# インターネット・最高！
+# ほとばしるエクスタシー

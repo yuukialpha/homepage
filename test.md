@@ -9,7 +9,3 @@
 - Codeberg https://codeberg.org/mofusky
 - ゴリ押しアナリティクス https://gorioshi.yuuk1.tk
 - APIを介したChatGPT https://chatgpt.yuuk1.tk
-
-# インターネット・最高！
-> ほとばしるエクスタシー
-> 甘い夢をみせてマイスリー

@@ -10,8 +10,8 @@
 - https://chatgpt.yuuk1.tk
 - https://gorioshi.yuuk1.tk
 - https://codeberg.org/mofusky
-- https://codeberg.page
-- http://ikioi-ranking.com/?v%5B%5D=nico&v%5B%5D=twitcasting&v%5B%5D=fc2&v%5B%5D=whowatch&v%5B%5D=showroom&v%5B%5D=linelive&v%5B%5D=periscope&v%5B%5D=openrec&v%5B%5D=twitch&v%5B%5D=youtube&v%5B%5D=mirrativ&v%5B%5D=dokidoki&v%5B%5D=kukulu&v%5B%5D=17live&v%5B%5D=spooncast&v%5B%5D=mildom&v%5B%5D=bigo&v%5B%5D=tiktok&v%5B%5D=hakuna&v%5B%5D=abematv https://search.yahoo.co.jp/realtime
+- http://ikioi-ranking.com/?v%5B%5D=nico&v%5B%5D=twitcasting&v%5B%5D=fc2&v%5B%5D=whowatch&v%5B%5D=showroom&v%5B%5D=linelive&v%5B%5D=periscope&v%5B%5D=openrec&v%5B%5D=twitch&v%5B%5D=youtube&v%5B%5D=mirrativ&v%5B%5D=dokidoki&v%5B%5D=kukulu&v%5B%5D=17live&v%5B%5D=spooncast&v%5B%5D=mildom&v%5B%5D=bigo&v%5B%5D=tiktok&v%5B%5D=hakuna&v%5B%5D=abematv
+- https://search.yahoo.co.jp/realtime
 - https://codepedia.info/twitter-trends/japan
 - https://news.yahoo.co.jp/ranking/access/news
 - https://news.ycombinator.com

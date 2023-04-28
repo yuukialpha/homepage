@@ -8,6 +8,3 @@ Powered by [Codeberg Pages](https://codeberg.page)
 
 ### 情報
 - <スパム注意> 隔離すきー https://misskey.yuuk1.tk/timeline
-
-### ソースコード
-- https://codeberg.org/mofusky

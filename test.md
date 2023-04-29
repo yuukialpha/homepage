@@ -1,19 +1,12 @@
 # ゆうきのホームページ
+ようこそ！ゆっくりしていってね。
 
-### ゲーム
-- 太鼓ウェブ https://taiko-web-is-4ever.yuuk1.tk
-    - ![](https://badgen.net/uptime-robot/status/m794076910-3b2cafc4b1e16f56a6094840?label=%E5%A4%AA%E9%BC%93%E3%82%A6%E3%82%A7%E3%83%96&cache=300) ![](https://badgen.net/uptime-robot/month/m794076910-3b2cafc4b1e16f56a6094840?label=%E5%A4%AA%E9%BC%93%E3%82%A6%E3%82%A7%E3%83%96&cache=3600)
+## このドメインについて
+yuuk1.tk では、Freenomでドメインを取得し、Cloudflareのネームサーバーを使用してDNSのルーティング及びCDNの活用をしています。現時点で、Freenomでの yuuk1.tk のドメインの期限切れは `2023-07-16` になっています。更新を忘れると大変なので気をつけましょう(自分用メモ)。[Cloudflareのアナリティクス](https://gorioshi.yuuk1.tk)も確認することが出来ます。ただし、これらの数字を過信しすぎるとギャンブル中毒者になってしまうので気をつけましょう。
 
-### 情報
-- https://misskey.yuuk1.tk/timeline
-- https://misskey.io/timeline
-- https://chatgpt.yuuk1.tk
-- https://gorioshi.yuuk1.tk
-- https://codeberg.org/mofusky
-- http://ikioi-ranking.com/?v%5B%5D=nico&v%5B%5D=twitcasting&v%5B%5D=fc2&v%5B%5D=whowatch&v%5B%5D=showroom&v%5B%5D=linelive&v%5B%5D=periscope&v%5B%5D=openrec&v%5B%5D=twitch&v%5B%5D=youtube&v%5B%5D=mirrativ&v%5B%5D=dokidoki&v%5B%5D=kukulu&v%5B%5D=17live&v%5B%5D=spooncast&v%5B%5D=mildom&v%5B%5D=bigo&v%5B%5D=tiktok&v%5B%5D=hakuna&v%5B%5D=abematv
-- https://search.yahoo.co.jp/realtime
-- https://codepedia.info/twitter-trends/japan
-- https://news.yahoo.co.jp/ranking/access/news
-- https://news.ycombinator.com
-- https://weather.com/ja-JP/forecast/allergy/l/ec40f9667f515359476afb33c7db13c594f28b705547dd362f7050906fdde430
-- https://aqicn.org/here/
+## 太鼓ウェブについて
+![](https://badgen.net/uptime-robot/status/m794076910-3b2cafc4b1e16f56a6094840?label=%E5%A4%AA%E9%BC%93%E3%82%A6%E3%82%A7%E3%83%96&cache=300) ![](https://badgen.net/uptime-robot/month/m794076910-3b2cafc4b1e16f56a6094840?label=%E5%A4%AA%E9%BC%93%E3%82%A6%E3%82%A7%E3%83%96%E3%81%AE%E6%9C%88%E9%96%93%E7%A8%BC%E5%83%8D%E7%8E%87&cache=3600)
+太鼓ウェブは、[@bui](https://github.com/bui) 氏とそのコミュニティよって開発された、音声と譜面を太鼓の達人のようにシミュレーションするゲームサイトです。しかし、[本家サイト](https://taiko.bui.pm)はバンダイナムコからのテイクダウンを受け[正式に閉鎖されました](https://www.reddit.com/r/taikonotatsujin/comments/103hpah/rip_taiko_web/)。[このドメインでホストしている太鼓ウェブ](https://taiko-web-is-4ever.yuuk1.tk)はその派生サイトの一つでもあります。ソースコードは[Codeberg](https://codeberg.org/mofusky/taiko-web-rainbow)でメンテナンスをしています。
+
+## その他の情報
+[こちら](https://misskey.yuuk1.tk/timeline)から確認することが出来ます。

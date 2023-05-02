@@ -8,7 +8,7 @@
 
 ## このドメインについて
 ![](cf.png)
-yuuk1.tk では、Freenomでドメインを取得し、Cloudflareのネームサーバーを使用してDNSのルーティング及びCDNの活用をしています。現時点で、Freenomでの yuuk1.tk のドメインの期限切れは `2023-07-16` になっています。更新を忘れると大変なので気をつけましょう(自分用メモ)。[Cloudflareのアナリティクス](https://gorioshi.yuuk1.tk)も確認することが出来ます(親切設計)。
+yuuk1.tk では、Freenomというサービスでドメインを取得し、Cloudflareのネームサーバーを使ってDNSのルーティングやCDNの活用をしています。yuuk1.tkのドメインの有効期限は現在、2023年7月16日までです。更新を忘れないように気をつけましょうね。(自分用メモ)。また、[Cloudflareのアナリティクス](https://gorioshi.yuuk1.tk)も確認できるように親切に設計されています。
 
 ## その他の情報
 [こちら](https://misskey.yuuk1.tk/timeline)から確認することが出来ます。

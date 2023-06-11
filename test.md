@@ -1,3 +1,8 @@
+# [☆太鼓ウェブ☆](https://taiko-web-is-4ever.yuuk1.tk)
+# [☆マイクラ☆](https://minecraft-beta.yuuk1.tk)
+# [☆3Dピンボール☆](https://3d-pinball.yuuk1.tk)
+##### And more... (Coming soon) - today is 6/11
+
 ## NEW: URLリスト
 
 | 概要 | URL |

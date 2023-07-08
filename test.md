@@ -1,7 +1,7 @@
 # [☆太鼓ウェブ☆](https://taiko-web-is-4ever.yuuk1.tk)
-# [☆マイクラ☆](https://minecraft-beta.yuuk1.tk)
-# [☆3Dピンボール☆](https://3d-pinball.yuuk1.tk)
-##### And more... (Coming soon) - today is 6/11
+# [☆マイクラ☆](https://ipfs.io/ipfs/QmUGXYJ5tkcPojNLAMvh7njwZ5USU3PSw2bMHEL2HHWWxk)
+# [☆3Dピンボール☆](https://ipfs.io/ipfs/QmTZVSMYe2YLAKkKdegqt5Ve9refWL8RVLBDaLSYTnFJGL)
+##### And more... (Coming soon) - today is 2023/6/11
 
 ## NEW: URLリスト
 
@@ -20,7 +20,7 @@
 
 ## このドメインについて
 ![](cf.png)
-yuuk1.tk では、Freenomというサービスでドメインを取得し、Cloudflareのネームサーバーを使ってDNSのルーティングやCDNの活用をしています。yuuk1.tkのドメインの有効期限は現在、2023年7月16日までです。更新を忘れないように気をつけましょうね。(自分用メモ)。また、[Cloudflareのアナリティクス](https://gorioshi.yuuk1.tk)も確認できるように親切に設計されています。
+yuuk1.tk では、Freenomというサービスでドメインを取得し、Cloudflareのネームサーバーを使ってDNSのルーティングやCDNの活用をしています。yuuk1.tkのドメインの有効期限は現在、2024年7月16日までです。更新を忘れないように気をつけましょうね。(自分用メモ)。また、[Cloudflareのアナリティクス](https://gorioshi.yuuk1.tk)も確認できるように親切に設計されています。
 
 ## その他の情報
 [こちら](https://misskey.yuuk1.tk/timeline)から確認することが出来ます。

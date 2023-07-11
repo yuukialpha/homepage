@@ -1,11 +1,10 @@
 .markdown-body {
     padding: 20px;
-    margin: 0 auto;
-    max-width: 777px;
 }
 
-@media screen and (max-width: 777px) {
+@media screen and (min-width: 777px) {
     .markdown-body {
-        padding: 20px;
+        margin: 0 auto;
+        max-width: 777px;
     }
 }

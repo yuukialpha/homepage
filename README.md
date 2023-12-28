@@ -3,7 +3,7 @@
 ↓太鼓ウェブを今すぐプレイ！↓
 # https://taiko.yuuk1.tk/
 - Oracle Cloudのリソースが壊れたので、復活するにしてもデータリセットになる可能性あり。
-- Vultrにて復活 2023/12/28
+[2023/12/28] Vultrにて復活、するも0曲に…
 
 以前使用していたツールも配布中！
 - [TJADB・一括ダウンロード](https://codeberg.org/mofusky/tjadb-downloader)

@@ -1,6 +1,6 @@
 const md = new markdownit({ breaks: true, linkify: true });
 
-fetch('./test.md')
+fetch('./README.md')
   .then((res) => res.text())
   .then((text) => {
     document.getElementById('main').innerHTML = md.render(text);

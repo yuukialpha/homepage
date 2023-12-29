@@ -1,7 +1,7 @@
 [![](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page/) [![](https://badgen.net/badge/%F0%9F%94%AA/No%20Allergy/FF0000)](https://codeberg.org/mofusky/defeat-allergy) [![](https://badgen.net/badge/TikTok/@yuukihacker/000000)](https://www.tiktok.com/@yuukihacker) [![](https://badgen.net/badge/Yay%21/%E3%82%86%E3%81%A1%E3%82%83/00008B)](https://yay.space/user/8315452) ![](https://badgen.net/badge/PayPay/yfpk/FF0000)
 
 ↓太鼓ウェブを今すぐプレイ！↓
-# https://taiko.yuuk1.tk/
+# https://taikoapp.uk/
 - [2023/12/07] 100曲突破🎉
 - [2023/12/20] 200曲突破🎉
 

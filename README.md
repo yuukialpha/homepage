@@ -4,10 +4,10 @@
 # https://taiko.yuuk1.tk/
 - [2023/12/07] 100曲突破🎉
 - [2023/12/20] 200曲突破🎉
-- Oracle Cloudのリソースが壊れたので、復活するにしてもデータリセットになる可能性あり。
+Oracle Cloudのリソースが壊れたので、復活するにしてもデータリセットになる可能性あり。
 - [2023/12/28] Vultrにて復活、するも0曲に…
 
-以前使用していたツール3つも配布中！
+以前使用していたツールも配布中！
 - [TJADB・一括ダウンロード](https://codeberg.org/mofusky/tjadb-downloader)
 - [譜面配布の部屋・一括ダウンロード](https://codeberg.org/mofusky/humenroom-downloader)
-- ニジイロ全曲も[ここに](https://drive.google.com/drive/folders/19eGJLDkiTt2qsJ2-YMrhvuV6VvxZYcWE?usp=sharing)ありますが、自分が管理しているわけではないので自己責任でダウンロードして下さい。
+ニジイロ全曲も[ここに](https://drive.google.com/drive/folders/19eGJLDkiTt2qsJ2-YMrhvuV6VvxZYcWE?usp=sharing)ありますが、自分が管理しているわけではないので自己責任でダウンロードして下さい。

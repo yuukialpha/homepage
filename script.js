@@ -15,3 +15,10 @@ fetch('./README.md')
       aTag.setAttribute('target', '_blank');
     });
   });
+  .then(() => {
+    fetch('https://taikoapp.uk/api/songs')
+      .then((res) => res.json())
+      .then((json) => {
+        document.getElementById('taiko-size') = json.length.toString();
+      })
+  })

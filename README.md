@@ -1,4 +1,3 @@
-<p>
 ![](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page/)
 [![](https://badgen.net/badge/%F0%9F%94%AA/No%20Allergy/FF0000)](https://codeberg.org/mofusky/defeat-allergy)
 [![](https://badgen.net/badge/TikTok/@yuukihacker/000000)](https://www.tiktok.com/@yuukihacker)
@@ -6,7 +5,6 @@
 ![](https://badgen.net/badge/PayPay/yfpk/FF0000)
 ![](https://dcbadge.vercel.app/api/shield/1190584348399902780)
 [![](https://dcbadge.vercel.app/api/server/FcTX7FNQcY)](https://discord.gg/FcTX7FNQcY)
-</p>
 
 ↓太鼓ウェブを今すぐプレイ！↓
 # https://taikoapp.uk/

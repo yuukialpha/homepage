@@ -7,6 +7,7 @@
 
 Oracle Cloudのリソースが壊れたので、復活するにしてもデータリセットになる可能性あり。
 - [2023/12/28] Vultrにて復活、するも0曲に…
+- 現在の曲数: <span id="taiko-size">0</span>
 
 以前使用していたツールも配布中！
 - [TJADB・一括ダウンロード](https://codeberg.org/mofusky/tjadb-downloader)

@@ -4,7 +4,7 @@ const md = new markdownit({
 });
 
 addEventListener('load', () => {
-  fetch('./README.md')
+  fetch('./template.md')
     .then((res) => res.text())
     .then((text) => {
       document.querySelector('#main').innerHTML = md.render(text);

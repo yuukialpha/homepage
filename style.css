@@ -16,3 +16,7 @@ html, body, .markdown-body, .inner {
         max-width: 777px;
     }
 }
+
+#taiko-size {
+    font-size: 2rem;
+}

@@ -6,16 +6,20 @@
 ![](https://dcbadge.vercel.app/api/shield/1190584348399902780)
 [![](https://dcbadge.vercel.app/api/server/FcTX7FNQcY)](https://discord.gg/FcTX7FNQcY)
 
-↓太鼓ウェブを今すぐプレイ！↓
 # https://taikoapp.uk/
+↑太鼓ウェブを今すぐプレイ！↑
+
 - [2023/12/07] 100曲突破🎉
 - [2023/12/20] 200曲突破🎉
 
 Oracle Cloudのリソースが壊れたので、復活するにしてもデータリセットになる可能性あり。
+
 - [2023/12/28] Vultrにて復活、するも0曲に…
-- 現在の曲数: <h1 id="taiko-size">0</h1>
+
+現在の曲数: <h2 id="taiko-size">0</h2>
 
 以前使用していたツールも配布中！
+
 - [TJADB・一括ダウンロード](https://codeberg.org/mofusky/tjadb-downloader)
 - [譜面配布の部屋・一括ダウンロード](https://codeberg.org/mofusky/humenroom-downloader)
 

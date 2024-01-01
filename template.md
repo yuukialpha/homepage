@@ -26,16 +26,18 @@ Oracle Cloudのリソースが壊れたので、復活するにしてもデー�
 
 ニジイロ全曲も[ここに](https://drive.google.com/drive/folders/19eGJLDkiTt2qsJ2-YMrhvuV6VvxZYcWE?usp=sharing)ありますが、自分が管理しているわけではないので自己責任でダウンロードして下さい。
 
+太鼓ウェブの稼働状況や姉妹サイトは[こちら](https://stats.uptimerobot.com/vvPZrsOyo5/)から確認できますが、Uptime RobotはGlitchをサポートしていないため、[こちら](https://lavender.5ch.net/test/read.cgi/music/1704009186/)から全ての一覧を入手してください。
+
 # ゴリ押しアナリティクスv3、ついにリリース！
 ## それはなんですか？
 Cloudflareのダッシュボードを見ずに、アクセス数を簡単に画像で共有できます！
 
 エンドポイントは `https://gorioshi.yuuk1.tk/<key>/<email>/<zone_id>/<int:hours>` です！
 
-<code>yuuk1.tk</code>
+## `yuuk1.tk` の統計情報
 
 ![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/72)
 
-<code>taikoapp.uk</code>
+## `taikoapp.uk` の統計情報
 
 ![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/72)

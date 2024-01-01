@@ -32,7 +32,7 @@ Oracle Cloudのリソースが壊れたので、復活するにしてもデー�
 ## それはなんですか？
 Cloudflareのダッシュボードを見ずに、アクセス数を簡単に画像で共有できます！
 
-エンドポイントは `https://gorioshi.yuuk1.tk/[hourly|daily]/<key>/<email>/<zone_id>/<int:[hours|days]>` です！
+エンドポイントは `https://gorioshi.yuuk1.tk/<key>/<email>/<zone_id>/[hourly|daily]/<int:scale>` です！
 
 キーにはアナリティクスにアクセスする権限が付いているものを使用してください。
 
@@ -40,18 +40,18 @@ Cloudflareのダッシュボードを見ずに、アクセス数を簡単に画�
 
 過去72時間の1時間ごとのグラフ
 
-![](https://gorioshi.yuuk1.tk/hourly/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/72)
+![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/hourly/72)
 
 過去30日間の1日ごとのグラフ
 
-![](https://gorioshi.yuuk1.tk/daily/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/30)
+![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/daily/30)
 
 ## `taikoapp.uk` の統計情報
 
 過去72時間の1時間ごとのグラフ
 
-![](https://gorioshi.yuuk1.tk/hourly/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/72)
+![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/hourly/72)
 
 過去30日間の1日ごとのグラフ
 
-![](https://gorioshi.yuuk1.tk/daily/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/30)
+![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/daily/30)

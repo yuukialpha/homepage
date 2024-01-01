@@ -32,14 +32,16 @@ Oracle Cloudのリソースが壊れたので、復活するにしてもデー�
 ## それはなんですか？
 Cloudflareのダッシュボードを見ずに、アクセス数を簡単に画像で共有できます！
 
-エンドポイントは `https://gorioshi.yuuk1.tk/<key>/<email>/<zone_id>/<int:hours>` です！
+エンドポイントは `https://gorioshi.yuuk1.tk/[hourly|daily]/<key>/<email>/<zone_id>/<int:[hours|days]>` です！
 
 キーにはアナリティクスにアクセスする権限が付いているものを使用してください。
 
 ## `yuuk1.tk` の統計情報
 
-![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/72)
+![](https://gorioshi.yuuk1.tk/hourly/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/72)
+![](https://gorioshi.yuuk1.tk/daily/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/10)
 
 ## `taikoapp.uk` の統計情報
 
-![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/72)
+![](https://gorioshi.yuuk1.tk/hourly/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/72)
+![](https://gorioshi.yuuk1.tk/daily/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/10)

@@ -38,10 +38,20 @@ Cloudflareのダッシュボードを見ずに、アクセス数を簡単に画�
 
 ## `yuuk1.tk` の統計情報
 
+過去72時間の1時間ごとのグラフ
+
 ![](https://gorioshi.yuuk1.tk/hourly/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/72)
-![](https://gorioshi.yuuk1.tk/daily/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/10)
+
+過去30日間の1日ごとのグラフ
+
+![](https://gorioshi.yuuk1.tk/daily/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/3ace6ae0587033b37c79e168cf60c234/30)
 
 ## `taikoapp.uk` の統計情報
 
+過去72時間の1時間ごとのグラフ
+
 ![](https://gorioshi.yuuk1.tk/hourly/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/72)
-![](https://gorioshi.yuuk1.tk/daily/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/10)
+
+過去30日間の1日ごとのグラフ
+
+![](https://gorioshi.yuuk1.tk/daily/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/30)

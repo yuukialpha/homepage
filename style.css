@@ -2,16 +2,16 @@ html, body, .markdown-body, .inner {
     height: 100%;
 }
 
-.markdown-body {
+.inner {
     overflow-y: auto;
 }
 
-.inner {
+#main {
     padding: 20px;
 }
 
 @media screen and (min-width: 777px) {
-    .inner {
+    #main {
         margin: 0 auto;
         max-width: 777px;
     }

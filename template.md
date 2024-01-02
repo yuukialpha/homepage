@@ -22,7 +22,7 @@ Oracle Cloudのリソースが壊れたので、復活するにしてもデー�
 
 ニジイロ全曲も[ここに](https://drive.google.com/drive/folders/19eGJLDkiTt2qsJ2-YMrhvuV6VvxZYcWE?usp=sharing)ありますが、自分が管理しているわけではないので自己責任でダウンロードして下さい。
 
-太鼓ウェブの稼働状況や姉妹サイトは[こちら](https://stats.uptimerobot.com/vvPZrsOyo5/)から確認できますが、Uptime RobotはGlitchをサポートしていないため、[こちら](https://lavender.5ch.net/test/read.cgi/music/1704009186/)から全ての一覧を入手してください。
+太鼓ウェブの稼働状況や姉妹サイトは[こちら](https://stats.uptimerobot.com/vvPZrsOyo5/)から確認できますが、Uptime RobotはGlitchをサポートしていないため、[こちら](https://rentry.co/f3c9y)から全ての一覧を入手してください。
 
 # ゴリ押しアナリティクスv3、ついにリリース！
 ## それはなんですか？

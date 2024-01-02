@@ -1,12 +1,9 @@
-html, body, .markdown-body {
+html, body, .markdown-body, #main {
     height: 100%;
 }
 
-.markdown-body {
-    overflow-y: auto;
-}
-
 #main {
+    overflow-y: auto;
     padding: 20px;
 }
 

@@ -1,8 +1,8 @@
-html, body, .markdown-body, .inner {
+html, body, .markdown-body {
     height: 100%;
 }
 
-.inner {
+.markdown-body {
     overflow-y: auto;
 }
 

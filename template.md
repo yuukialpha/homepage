@@ -1,6 +1,6 @@
-[![](https://badgen.net/badge/github/yuukialpha/000000?icon&label)](https://github.com/yuukialpha)
+[![](https://badgen.net/badge/github/yuukialpha/0D1117?icon)](https://github.com/yuukialpha)
 [![](https://badgen.net/badge/codeberg/mofusky/2185D0)](https://codeberg.org/mofusky)
-![](https://badgen.net/badge/paypay/yfpk/FF0000)
+![](https://badgen.net/badge/paypay/yfpk/FF0E33)
 
 # https://taikoapp.uk/
 ↑太鼓ウェブを今すぐプレイ！↑

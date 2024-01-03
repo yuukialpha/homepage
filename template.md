@@ -15,6 +15,11 @@ Oracle Cloudのリソースが壊れたので、復活するにしてもデー�
 - [2023/12/28] Vultrにて復活、するも0曲に…
 - [2023/12/31] 100曲突破🥳
 
+[最新版tjaf搭載の太鼓ウェブ投稿ツール](https://codeberg.org/mofusky/taiko-web-easy-post-tool)がついにリリース！
+
+- [2024/01/03] 200曲突破🥳
+- [2024/01/03] 300曲突破🥳
+
 以前使用していたツールも配布中！
 
 - [TJADB・一括ダウンロード](https://codeberg.org/mofusky/tjadb-downloader)

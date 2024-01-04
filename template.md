@@ -18,6 +18,7 @@ Oracle Cloudのリソースがバグったから、復活してもデータリ�
 [最新版tjaf搭載の太鼓ウェブ投稿ツール](https://codeberg.org/mofusky/taiko-web-easy-post-tool)が遂にリリース！
 
 - [2024/01/03] 1000曲達成🥳
+- [2024/01/04] 2000曲達成🥳
 
 以前使ってたツールも配布中！
 

@@ -56,3 +56,10 @@ Cloudflareのダッシュボード見なくても、アクセス数簡単に画�
 過去30日間の1日ごとのグラフ
 
 ![](https://gorioshi.yuuk1.tk/xFksuatVZcO5_r_JpSak7wRxV0r3OMD-Qe1WxjXC/skifree@skiff.com/176677a44c89b3aa8ab0a33f2d7108c3/daily/30)
+
+# Cloudflareを使うときの個人的ベストプラクティス
+
+- SSL/TLSは厳密モードにする
+- ブラウザキャッシュはオリジンに従うように設定する
+- エッジキャッシュはキャッシュルールで対象に追加してオリジンからCDN-Cache-Controlを返して制御する
+- ページルールは使わない

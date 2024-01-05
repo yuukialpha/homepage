@@ -5,7 +5,7 @@
 # https://taikoapp.uk/
 ↑太鼓ウェブ、今すぐプレイしよっ！↑
 
-現在の曲数: <code id="taiko-size">0</code>
+現在の曲数: <code id="taiko-size">-</code>
 
 以前使ってたツールも配布中！
 

@@ -7,19 +7,6 @@
 
 現在の曲数: <code id="taiko-size">0</code>
 
-- [2023/12/07] 100曲達成🎉
-- [2023/12/20] 200曲達成🎉
-
-Oracle Cloudのリソースがバグったから、復活してもデータリセットの可能性アリ。
-
-- [2023/12/28] Vultrで復活、でも0曲…
-- [2023/12/31] 100曲達成🥳
-
-[最新版tjaf搭載の太鼓ウェブ投稿ツール](https://codeberg.org/mofusky/taiko-web-easy-post-tool)が遂にリリース！
-
-- [2024/01/03] 1000曲達成🥳
-- [2024/01/04] 2000曲達成🥳
-
 以前使ってたツールも配布中！
 
 - [TJADB・一括ダウンロード](https://codeberg.org/mofusky/tjadb-downloader)

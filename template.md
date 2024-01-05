@@ -7,7 +7,7 @@
 
 現在の曲数: <code id="taiko-size">-</code>
 
-最近追加された曲はこちら！
+## 最近追加された曲はこちら！
 
 - <span id="taiko-last-song-1">-</span>
 - <span id="taiko-last-song-2">-</span>
@@ -17,12 +17,14 @@
 - <span id="taiko-last-song-6">-</span>
 - <span id="taiko-last-song-7">-</span>
 
-以前使ってたツールも配布中！
+## 以前使ってたツールも配布中！
 
 - [TJADB・一括ダウンロード](https://codeberg.org/mofusky/tjadb-downloader)
 - [譜面配布の部屋・一括ダウンロード](https://codeberg.org/mofusky/humenroom-downloader)
 
-ニジイロ全曲も[ここに](https://drive.google.com/drive/folders/19eGJLDkiTt2qsJ2-YMrhvuV6VvxZYcWE?usp=sharing)あるよ、でも管理してないから自己責任でダウンロードしてね。
+ニジイロ全曲も[ここに](https://drive.google.com/drive/folders/19eGJLDkiTt2qsJ2-YMrhvuV6VvxZYcWE?usp=sharing)あるよ、でも私は管理してないから自己責任でダウンロードしてね。
+
+## 稼働状況を確認！
 
 太鼓ウェブの調子や姉妹サイトは[こちら](https://stats.uptimerobot.com/vvPZrsOyo5/)から確認できるよ、でもUptime RobotはGlitchサポートしてないから[こちら](https://rentry.co/f3c9y)から全部の一覧をゲットしてね。
 
@@ -59,4 +61,4 @@ Cloudflareのダッシュボード見なくても、アクセス数簡単に画�
 - SSL/TLSは厳密モードにする
 - ブラウザキャッシュはオリジンに従うように設定する
 - エッジキャッシュはキャッシュルールで対象に追加してオリジンからCDN-Cache-Controlを返して制御する
-- ページルールは使わない
+- ページルールは優先度が高過ぎるので使わない

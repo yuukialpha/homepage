@@ -7,6 +7,16 @@
 
 現在の曲数: <code id="taiko-size">-</code>
 
+最近追加された曲はこちら！
+
+- <span id="taiko-last-song-1">-</span>
+- <span id="taiko-last-song-2">-</span>
+- <span id="taiko-last-song-3">-</span>
+- <span id="taiko-last-song-4">-</span>
+- <span id="taiko-last-song-5">-</span>
+- <span id="taiko-last-song-6">-</span>
+- <span id="taiko-last-song-7">-</span>
+
 以前使ってたツールも配布中！
 
 - [TJADB・一括ダウンロード](https://codeberg.org/mofusky/tjadb-downloader)

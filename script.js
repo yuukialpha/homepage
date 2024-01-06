@@ -25,7 +25,7 @@ addEventListener('load', () => {
           document.querySelector('#taiko-size').textContent = json.length.toString();
           json.slice(-7).reverse().forEach((song, index) => {
             document.querySelector(`#taiko-last-song-${index+1}`).textContent = song['title'];
-          })
+          });
         });
     });
 });

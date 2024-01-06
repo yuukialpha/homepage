@@ -7,6 +7,8 @@
 
 現在の曲数: <code id="taiko-size">-</code>
 
+※クッキー無効にしたらログインできなくなったのでそのうち直します
+
 ## 最近追加された曲はこちら！
 
 - <span id="taiko-last-song-1">-</span>
